@@ -1,6 +1,9 @@
 👋 #Hi, I’m Agastya
+
 👀 ##Student 
+
 🌱 I’m currently learning Data Structures, Algorithms and front-end Web development.
+
 📫 Contact me at agastyarajawat909@gmail.com
 
 <!---
