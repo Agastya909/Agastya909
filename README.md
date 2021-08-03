@@ -1,6 +1,6 @@
-👋 # Hi, I’m Agastya
+# Hi, I’m Agastya
 
-👀 ## Student 
+## Student 
 
 🌱 I’m currently learning Data Structures, Algorithms and front-end Web development.
 
