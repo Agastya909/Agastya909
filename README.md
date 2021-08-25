@@ -1,6 +1,7 @@
 ### Hi, I’m Agastya
 I am a Computer Science student at Bharati Vidhyapeeth College of Engineering, Pune <br>
-:tanabata_tree: Interests 
+
+#### :tanabata_tree: Interests 
 <ul> 
   <li>Web Development</li>
   <li>App Development</li>
