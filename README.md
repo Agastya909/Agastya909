@@ -1,8 +1,10 @@
-# Hi, I’m Agastya
-
-## **Student** 
-
-🌱 I’m currently learning Data Structures, Algorithms and front-end Web development.
+### Hi, I’m Agastya
+I am a Computer Science student at Bharati Vidhyapeeth College of Engineering, Pune
+:tanabata_tree: Interests 
+<ul> 
+  <li>Web Development</li>
+  <li>App Development</li>
+</ul>
 
 📫 Contact me at agastyarajawat909@gmail.com
 
