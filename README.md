@@ -9,7 +9,7 @@ I am a 3rd year Computer Science student at Bharati Vidhyapeeth College of Engin
 
 ![Agastya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Agastya909&theme=radical&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/Agastya909/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Agastya909&layout=compact)](https://github.com/Agastya909/github-readme-stats)
 
 #### :tanabata_tree: Interests 
 <ul> 
