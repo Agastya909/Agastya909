@@ -3,9 +3,9 @@
 I am a 3rd year Computer Science student at Bharati Vidhyapeeth College of Engineering, Pune. 
 
 ![](https://img.shields.io/badge/%20-Windows-blue) ![](https://img.shields.io/badge/%20-Linux-blue) 
-![Javascript](https://img.shields.io/badge/%20-Javascript%20ES6-brightgreen) ![](https://img.shields.io/badge/%20-C-brightgreen) ![](https://img.shields.io/badge/%20-C++-brightgreen) ![](https://img.shields.io/badge/%20-Python-brightgreen)  ![](https://img.shields.io/badge/%20-HTML5-brightgreen) ![](https://img.shields.io/badge/%20-CSS-brightgreen) ![](https://img.shields.io/badge/%20-React%20JS-brightgreen) 
+![Javascript](https://img.shields.io/badge/%20-Javascript%20ES6-brightgreen) ![](https://img.shields.io/badge/%20-C-brightgreen) ![](https://img.shields.io/badge/%20-C++-brightgreen) ![](https://img.shields.io/badge/%20-Python-brightgreen)  ![](https://img.shields.io/badge/%20-HTML5-brightgreen) ![](https://img.shields.io/badge/%20-CSS-brightgreen) 
 ![](https://img.shields.io/badge/%20-Terminal/Bash-yellow) ![](https://img.shields.io/badge/%20-VS%20Code-yellow)  ![](https://img.shields.io/badge/%20-Visual%20Studio-yellow) ![](https://img.shields.io/badge/%20-git-yellow) 
- ![](https://img.shields.io/badge/%20-MongoDB-blueviolet) ![](https://img.shields.io/badge/%20-MySQL-blueviolet) ![](https://img.shields.io/badge/%20-NodeJS-blueviolet)  ![](https://img.shields.io/badge/%20-ExpressJS-blueviolet)   ![](https://img.shields.io/badge/%20-Tailwind%20CSS-blueviolet)  ![](https://img.shields.io/badge/%20-Bootstrap-blueviolet)  
+ ![](https://img.shields.io/badge/%20-MongoDB-blueviolet) ![](https://img.shields.io/badge/%20-MySQL-blueviolet) ![](https://img.shields.io/badge/%20-NodeJS-blueviolet)  ![](https://img.shields.io/badge/%20-ExpressJS-blueviolet)   ![](https://img.shields.io/badge/%20-Tailwind%20CSS-blueviolet)  ![](https://img.shields.io/badge/%20-Bootstrap-blueviolet)  ![](https://img.shields.io/badge/%20-React%20JS-blueviolet) 
 
 #### :tanabata_tree: Interests 
 <ul> 
