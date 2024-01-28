@@ -1,6 +1,6 @@
 
 ## Hi, I’m Agastya
-I am a 3rd year Computer Science student at Bharati Vidhyapeeth College of Engineering, Pune. 
+I am Software Developer, worked on MERN stack application, currently working as React Native Developer
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
@@ -22,12 +22,6 @@ I am a 3rd year Computer Science student at Bharati Vidhyapeeth College of Engin
 ![Agastya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Agastya909&theme=radical&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Agastya909&langs_count=5&layout=compact&theme=radical)](https://github.com/Agastya909/github-readme-stats)
-
-#### :tanabata_tree: Interests 
-<ul> 
-  <li>Web Development</li>
-  <li>App Development</li>
-</ul>
 
 📫 Contact me at agastyarajawat909@gmail.com
 
