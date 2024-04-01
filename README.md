@@ -1,6 +1,6 @@
 
 ## Hi, I’m Agastya
-I am Software Developer, worked on MERN stack application, currently working as React Native Developer
+I am a Software Developer with 1 year of Experience working with technologies such as ExpressJS for backend, React for frontend and React Native for Mobile.
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
@@ -13,13 +13,11 @@ I am Software Developer, worked on MERN stack application, currently working as 
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
 
-![Andriod](https://img.shields.io/badge/android-34A853?style=for-the-badge&logo=android&logoColor=white)
+![Andriod](https://img.shields.io/badge/android-34A853?style=for-the-badge&logo=android&logoColor=white) ![React Native](https://img.shields.io/badge/reactnative-0078D6?style=for-the-badge&logo=reactantive&logoColor=white) 
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/reactnative-0078D6?style=for-the-badge&logo=reactantive&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-
-![Agastya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Agastya909&theme=radical&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Agastya909&langs_count=5&layout=compact&theme=radical)](https://github.com/Agastya909/github-readme-stats)
 
