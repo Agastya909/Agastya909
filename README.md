@@ -9,14 +9,18 @@
 - Personal [website](https://personal-website-pi-ruddy-84.vercel.app/)
 - I’m currently open for  Software Engineer role, either remote or in India, this is [my resume](https://drive.google.com/file/d/17EKRzaRe95SViKC6X94TeVROS3AK4o2G/view?usp=sharing)
 
-### <h2> Let's Connect..!</b>
+### <h2 align="center"> Let's Connect..!</b>
 
-<a href="mailto:agastyarajawat909@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=light" />
-</a>
-<a href="mailto:agastyarajawat909@gmail.com">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+<p align="center">
+  <a href="mailto:agastyarajawat909@gmail.com">
+      <img src="https://skillicons.dev/icons?i=gmail&theme=light" />
+  </a>
+</p>
+<p align="center">
+  <a href="mailto:agastyarajawat909@gmail.com">
+      <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>  
 
 ### <h2 align="center"> Skills</b>
 
