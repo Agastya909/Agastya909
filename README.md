@@ -26,16 +26,7 @@ Have a look at my [website](https://personal-website-pi-ruddy-84.vercel.app)
 ### <h2 align="center"> Skills</b>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,ts,c,cpp&theme=light" />
-</p>
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=react,materialui,redux,bootstrap,tailwind,css" />
-</p>
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,expressjs,mysql,redis,mongodb,firebase,prisma,sequelize" />
-</p>
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=git,aws,postman,figma,linux" />
+    <img src="https://skillicons.dev/icons?i=js,ts,c,cpp,react,materialui,redux,bootstrap,tailwind,css,nodejs,expressjs,mysql,redis,mongodb,firebase,git,aws,postman,figma,linux,&perline=7" />
 </p>
 
 ---
