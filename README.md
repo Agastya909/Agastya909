@@ -9,6 +9,7 @@ I’m currently open for  Software Engineer role, either remote or in India, thi
 <p>
 	Have a look at my <a href="https://personal-website-pi-ruddy-84.vercel.app/" target="_blank"> Website </a>
 </p>
+
 ---
 
 <h2 align="center"> Let's Connect...!</b>
