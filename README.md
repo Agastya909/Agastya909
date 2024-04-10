@@ -15,8 +15,6 @@
   <a href="mailto:agastyarajawat909@gmail.com">
       <img src="https://skillicons.dev/icons?i=gmail&theme=light" />
   </a>
-</p>
-<p align="center">
   <a href="mailto:agastyarajawat909@gmail.com">
       <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
