@@ -2,27 +2,15 @@
 
   
 <h1 align="center"><b>Hi , I'm Agastya Rajawat </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> 
+Full stack Software Engineer with 1 year of experience working with web, servers and mobile applications.
 
-### <p align="center">About me</p>
-
-<p align="center">
-	<p align="center">
-		Full stack Software Engineer with 1 year of experience.
-	</p>
-	<p align="center">
-		Works with web, servers and mobile applications.
-	</p>
-	<p align="center">
-		Personal [website](https://personal-website-pi-ruddy-84.vercel.app/)
-	</p>
-	<p align="center">
-		I’m currently open for  Software Engineer role, either remote or in India, this is [my resume](https://drive.google.com/file/d/17EKRzaRe95SViKC6X94TeVROS3AK4o2G/view?usp=sharing)
-	</p>
-</p>
+I’m currently open for  Software Engineer role, either remote or in India, this is [my resume](https://drive.google.com/file/d/17EKRzaRe95SViKC6X94TeVROS3AK4o2G/view?usp=sharing)
+	
+Have a look at my [website](https://personal-website-pi-ruddy-84.vercel.app)
 
 ---
 
-### <h2 align="center"> Let's Connect..!</b>
+<h2 align="center"> Let's Connect...!</b>
 
 <p align="center">
   <a href="mailto:agastyarajawat909@gmail.com">
