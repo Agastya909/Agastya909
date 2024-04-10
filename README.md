@@ -40,8 +40,8 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
+### <h2 align="center">Github stats</b>
+
 <div align="center">
 
 ![agastya909's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=agastya909&theme=onedark&show_icons=true&hide_border=false&layout=compact)
