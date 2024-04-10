@@ -5,9 +5,10 @@
 Full stack Software Engineer with 1 year of experience working with web, servers and mobile applications.
 
 I’m currently open for  Software Engineer role, either remote or in India, this is [my resume](https://drive.google.com/file/d/17EKRzaRe95SViKC6X94TeVROS3AK4o2G/view?usp=sharing)
-	
-Have a look at my [website](https://personal-website-pi-ruddy-84.vercel.app)
 
+<p>
+	Have a look at my <a href="https://personal-website-pi-ruddy-84.vercel.app/" target="_blank"> Website </a>
+</p>
 ---
 
 <h2 align="center"> Let's Connect...!</b>
@@ -18,7 +19,7 @@ Have a look at my [website](https://personal-website-pi-ruddy-84.vercel.app)
   <a href="mailto:agastyarajawat909@gmail.com">
       <img src="https://skillicons.dev/icons?i=gmail&theme=light" />
   </a>
-  <a href="mailto:agastyarajawat909@gmail.com">
+  <a href="https://www.linkedin.com/in/agastya-rajawat/">
       <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>  
