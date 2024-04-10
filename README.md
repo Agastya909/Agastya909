@@ -9,29 +9,37 @@
 - Personal [website](https://personal-website-pi-ruddy-84.vercel.app/)
 - I’m currently open for  Software Engineer role, either remote or in India, this is [my resume](https://drive.google.com/file/d/17EKRzaRe95SViKC6X94TeVROS3AK4o2G/view?usp=sharing)
 
-## <b> Let's Connect..!</b>
+ <h2> Let's Connect..!</b>
 
-<b>[Mail](mailto:agastyarajawat909@gmail.com)</b>
-<b>[LinkedIn](https://www.linkedin.com/in/agastya-rajawat/)</b>
+<a href="mailto:agastyarajawat909@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=light" />
+</a>
+<a href="mailto:agastyarajawat909@gmail.com">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
 
-### <b> Skills</b>
+<h2 align="center"> Skills</b>
 
- - **Languages**:
-	 - Typesript, Javascript, C/C++
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=js,ts,c,cpp&theme=light" />
+</p>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=react,materialui,redux,bootstrap,tailwind,css" />
+</p>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=nodejs,expressjs,mysql,redis,mongodb,firebase,prisma,sequelize" />
+</p>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=git,aws,postman,figma,linux" />
+</p>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=git,aws,postman,figma" />
+</p>
 
- - **Front-End Development**:
-	 - React, Material UI, Redux, Tailwind CSS, Bootstrap
-
- - **Backend-End Development**:
-	 - Nodejs, Expressjs, MySQL, Redis, MongoDB, Firebase
-
- - **Softwares and Tools**:
-	 - Git, AWS EC2, S3, Postman, Figma
 ---
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
-
 <div align="center">
 
 ![agastya909's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=agastya909&theme=onedark&show_icons=true&hide_border=false&layout=compact)
