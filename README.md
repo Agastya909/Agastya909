@@ -19,7 +19,7 @@
 </a>
 
 <h2 align="center"> Skills</b>
-
+---
 <p align="center">
     <img src="https://skillicons.dev/icons?i=js,ts,c,cpp&theme=light" />
 </p>
