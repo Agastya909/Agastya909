@@ -11,7 +11,9 @@ Have a look at my [website](https://personal-website-pi-ruddy-84.vercel.app)
 ---
 
 <h2 align="center"> Let's Connect...!</b>
-<br />
+
+<br>
+	
 <p align="center">
   <a href="mailto:agastyarajawat909@gmail.com">
       <img src="https://skillicons.dev/icons?i=gmail&theme=light" />
@@ -34,9 +36,6 @@ Have a look at my [website](https://personal-website-pi-ruddy-84.vercel.app)
 </p>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=git,aws,postman,figma,linux" />
-</p>
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=git,aws,postman,figma" />
 </p>
 
 ---
