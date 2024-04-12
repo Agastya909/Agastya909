@@ -39,6 +39,4 @@ I’m currently open for  Software Engineer role, either remote or in India, thi
 
 ![agastya909's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=agastya909&theme=onedark&show_icons=true&hide_border=false&layout=compact)
 
-![agastya909's Streak](https://github-readme-streak-stats.herokuapp.com/?user=agastya909&theme=onedark&hide_border=false)
-
 ![agastya909's Stats](https://github-readme-stats.vercel.app/api?username=agastya909&theme=onedark&show_icons=true&hide_border=false&count_private=true)
