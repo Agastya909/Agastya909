@@ -33,10 +33,6 @@ I’m currently open for  Software Engineer role, either remote or in India, thi
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=agastya909&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ### <h2 align="center">Github stats</b>
 
 <div align="center">
