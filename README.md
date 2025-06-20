@@ -2,9 +2,9 @@
 
   
 <h1 align="center"><b>Hi , I'm Agastya Rajawat </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> 
-Full stack Software Engineer with 1 year of experience working with web, servers and mobile applications.
 
-I’m currently open for  Software Engineer role, either remote or in India, this is [my resume](https://drive.google.com/file/d/17EKRzaRe95SViKC6X94TeVROS3AK4o2G/view?usp=sharing)
+Software Engineer with over 2 years of experience mostly working with golang, typescript and database services. Random bits of cloud and messaging service.
+<!-- I’m currently open for  Software Engineer role, either remote or in India, this is [my resume](https://drive.google.com/file/d/17EKRzaRe95SViKC6X94TeVROS3AK4o2G/view?usp=sharing) -->
 
 <p>
 	Have a look at my <a href="https://agastya-rajawat.in" target="_blank"> Website </a>
